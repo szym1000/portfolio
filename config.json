@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "projectTitle": "Project 1",
+      "description": "This is the description",
+      "date": "January 2015",
+      "projectPosterName": "cabin.png",
+      "projectVideoName": "",
+      "projectYouTubeURL": ""
+    },
+    {
+      "projectTitle": "Project 2",
+      "description": "This is the description",
+      "date": "January 2014",
+      "projectPosterName": "cake.png",
+      "projectVideoName": "",
+      "projectYouTubeURL": ""
+    }
+  ],
+  "aboutColumn1": "about 1",
+  "aboutColumn2": "about 2"
+}
